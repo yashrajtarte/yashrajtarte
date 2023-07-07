@@ -25,10 +25,10 @@
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashingole&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashrajtarte&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashingole&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashingole&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashrajtarte&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashrajtarte&theme=dracula)
 
 </br>
 </details>
