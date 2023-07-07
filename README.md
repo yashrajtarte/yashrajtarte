@@ -10,14 +10,26 @@
 
 ## I'm a Student, Developer, and Blogger!!
 
-- 🔭 I'm currently pursuing my Bachelors from Yeshwantrao Chavan College of Engineering Nagpur
-      and Honors in Computer Vision and Automation
+- 🔭 I'm currently pursuing my Bachelors from Yeshwantrao Chavan College of Engineering Nagpur and Honors in Computer Vision and Automation
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to forward to connect with yo
 - 🥅 2023 Goals: Learn more about Generative AI and LLM models.
 - ⚡ Fun fact: I love to play Volleyball and Reading Books!
 
 
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](www.linkedin.com/in/yashrajtarte#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/yashrajtarte#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/yashraj_tarte/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/yashraj_tarte/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/tarte_yashraj#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/tarte_yashraj#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/globe-light.svg)](#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
 
 
 <details>
