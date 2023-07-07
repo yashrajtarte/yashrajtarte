@@ -19,7 +19,7 @@
 
 
 <details>
-<summary>📈 Stats</summary>
+📈 Stats
 
 <br>
 
