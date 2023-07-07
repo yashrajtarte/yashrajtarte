@@ -17,20 +17,6 @@
 - ⚡ Fun fact: I love to play Volleyball and Reading Books!
 
 
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yashrajtarte#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yashrajtarte#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/yashraj_tarte/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/yashraj_tarte/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/tarte_yashraj#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/tarte_yashraj#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/globe-light.svg)](#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
-
 
 <details>
 <summary>📈 Stats</summary>
@@ -46,10 +32,17 @@
 </details>
 
 ---
+### Connect with me:
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yashrajtarte#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yashrajtarte#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/yashraj_tarte/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/yashraj_tarte/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/tarte_yashraj#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/tarte_yashraj#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/globe-light.svg)](#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yashrajtarte&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
-
-</details>
