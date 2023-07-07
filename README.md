@@ -16,6 +16,7 @@
 - 🥅 2023 Goals: Learn more about Generative AI and LLM models.
 - ⚡ Fun fact: I love to play Volleyball and Reading Books!
 
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
@@ -42,7 +43,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashrajtarte&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashrajtarte&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashrajtarte&theme=dracula)
-
 
 ---
 ### Connect with me:
