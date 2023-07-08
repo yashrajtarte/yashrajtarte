@@ -17,7 +17,7 @@
 - ⚡ Fun fact: I love to play Volleyball and Reading Books!
 
 
-📈 Git Stats
+## 📈 Git Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashrajtarte&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashrajtarte&theme=dracula) 
