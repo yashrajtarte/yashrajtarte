@@ -17,12 +17,6 @@
 - ⚡ Fun fact: I love to play Volleyball and Reading Books!
 
 
-## 📈 Git Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashrajtarte&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashrajtarte&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashrajtarte&theme=dracula)
-
 ### Languages and Tools:
 
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />][webdevplaylist]
@@ -52,6 +46,15 @@
 
 <br />
 <br />
+
+
+
+## 📈 Git Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashrajtarte&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashrajtarte&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashrajtarte&theme=dracula)
+
 
 
 ---
