@@ -56,19 +56,6 @@
 
 
 ---
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yashrajtarte#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yashrajtarte#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/yashraj_tarte/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/yashraj_tarte/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/tarte_yashraj#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/tarte_yashraj#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/globe-light.svg)](#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
 
 
 
