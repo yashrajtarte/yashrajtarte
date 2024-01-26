@@ -10,10 +10,10 @@
 
 ## I'm a Student, Developer, and Blogger!!
 
-- 🔭 I'm currently pursuing my Bachelors from Yeshwantrao Chavan College of Engineering Nagpur and Honors in Computer Vision and Automation.
+- 🔭 I'm pursuing my Bachelors from Yeshwantrao Chavan College of Engineering Nagpur and Honors in Computer Vision and Automation.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to forward to connect with people.
-- 🥅 2023 Goals: Learn more about Generative AI and LLM models.
+- 🥅 2024 Goals: Learn more about Cloud,  Java and Data Stuctures.
 - ⚡ Fun fact: I love to play Volleyball and Reading Books!
 
 
