@@ -1,7 +1,5 @@
 <p align="center">
-<a href="https://github.com/yashrajtarte">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yashraj Tarte;Mechine Learning+%7C+Flutter+%7C+Web Designing;SQL+%7C+GCP+%7C+Java+%7C+Python" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&width=435&lines=Hey+there%F0%9F%91%8B+Welcome+to+my+space!;Typing+up+cool+projects+and+ideas...;Always+learning+something+new!;Let%E2%80%99s+build+and+create+together+%F0%9F%9A%80" alt="Typing SVG" /></a>
 <br/>
 <a href="https://github.com/yashrajtarte">
     <img src="https://github-stats-alpha.vercel.app/api?username=YashrajTarte&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
